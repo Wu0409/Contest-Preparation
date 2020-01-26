@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyuanchen/Documents/Contest-Preparation/2019.1.23/题目/反片语（Ananagrams，UVa 156）/main.cpp
+iostream
+-
+vector
+-
+map
+-
+ctype.h
+-
+algorithm
+-
+

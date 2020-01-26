@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyuanchen/Documents/Contest-Preparation/2019.1.25/题目/代码对齐（Alignment of Code, ACM NEERC 2010）/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+algorithm
+-
+

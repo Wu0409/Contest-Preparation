@@ -1,3 +1,0 @@
-/Users/wuyuanchen/Documents/Contest-Preparation/2019.1.23/sstream/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/wuyuanchen/Documents/Contest-Preparation/2019.1.23/sstream/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/wuyuanchen/Documents/Contest-Preparation/2019.1.23/sstream/cmake-build-debug/CMakeFiles/sstream.dir
