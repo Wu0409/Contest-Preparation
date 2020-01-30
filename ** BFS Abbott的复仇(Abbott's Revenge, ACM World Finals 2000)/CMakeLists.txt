@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Abbott_Abbott_s_Revenge__ACM_World_Finals_2000_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Abbott_Abbott_s_Revenge__ACM_World_Finals_2000_ main.cpp)
