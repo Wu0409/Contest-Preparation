@@ -59,7 +59,7 @@ void print_result(node u){
         }
         cout<<endl;
     }
-    cout<<"共需要："<<count - 2<<"步！"<<endl;
+    cout<<"Total need: "<<count - 2<<" step(s)！"<<endl;
 }
 void solve(){
     queue <node> q;
@@ -86,9 +86,10 @@ void solve(){
 
 
 int main() {
-    cout<<"输入起始位置(0 - 7)"<<endl;
+    cout<<"国际象棋标准棋盘："<<endl;
+    cout<<"输入起始位置，左下角起(0 - 7)"<<endl;
     cin>>r0>>c0;
-    cout<<"输入终点位置(0 - 7)"<<endl;
+    cout<<"输入终点位置，左下角起(0 - 7)"<<endl;
     cin>>r1>>c1;
     r0 = 7 - r0;
     r1 = 7 - r1;
