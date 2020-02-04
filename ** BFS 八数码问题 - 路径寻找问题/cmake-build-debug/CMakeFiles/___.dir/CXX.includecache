@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyuanchen/Documents/Contest-Preparation/八数码问题 - 路径寻找问题/main.cpp
+iostream
+-
+cstring
+-
+queue
+-
+vector
+-
+map
+-
+
