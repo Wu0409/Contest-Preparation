@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyuanchen/Documents/Contest-Preparation/倒水问题（Fill, UVa 10603）/main.cpp
+iostream
+-
+queue
+-
+map
+-
+vector
+-
+
