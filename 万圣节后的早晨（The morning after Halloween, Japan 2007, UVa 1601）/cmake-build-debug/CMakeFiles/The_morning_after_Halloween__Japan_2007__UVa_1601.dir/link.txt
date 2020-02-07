@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/The_morning_after_Halloween__Japan_2007__UVa_1601.dir/main.cpp.o  -o The_morning_after_Halloween__Japan_2007__UVa_1601 

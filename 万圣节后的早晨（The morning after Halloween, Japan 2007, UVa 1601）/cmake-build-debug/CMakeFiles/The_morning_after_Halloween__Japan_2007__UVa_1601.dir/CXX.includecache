@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyuanchen/Documents/Contest-Preparation/万圣节后的早晨（The morning after Halloween, Japan 2007, UVa 1601）/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+map
+-
+

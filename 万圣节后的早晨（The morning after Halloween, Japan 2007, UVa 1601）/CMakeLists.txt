@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(The_morning_after_Halloween__Japan_2007__UVa_1601)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(The_morning_after_Halloween__Japan_2007__UVa_1601 main.cpp)
