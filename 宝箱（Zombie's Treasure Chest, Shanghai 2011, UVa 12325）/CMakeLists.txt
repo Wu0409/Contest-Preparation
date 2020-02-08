@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Zombie_s_Treasure_Chest__Shanghai_2011__UVa_12325)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Zombie_s_Treasure_Chest__Shanghai_2011__UVa_12325 main.cpp)
