@@ -1,0 +1,3 @@
+/Users/wuyuanchen/Documents/Contest-Preparation/消防车（Firetruck, ACM 1991, UVa 208）/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/消防车（Firetruck, ACM 1991, UVa 208）/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/消防车（Firetruck, ACM 1991, UVa 208）/cmake-build-debug/CMakeFiles/Firetruck__ACM_1991__UVa_208.dir
