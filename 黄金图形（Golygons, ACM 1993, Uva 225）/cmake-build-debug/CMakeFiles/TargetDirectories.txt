@@ -1,0 +1,3 @@
+/Users/wuyuanchen/Documents/Contest-Preparation/黄金图形（Golygons, ACM 1993, Uva 225）/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/黄金图形（Golygons, ACM 1993, Uva 225）/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/黄金图形（Golygons, ACM 1993, Uva 225）/cmake-build-debug/CMakeFiles/Golygons__ACM_1993__Uva_225.dir
