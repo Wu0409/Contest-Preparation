@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyuanchen/Documents/Contest-Preparation/多米诺效应（The Domino Effect, ACM Worlf Finals 1991, UVa 211）/main.cpp
+iostream
+-
+map
+-
+vector
+-
+

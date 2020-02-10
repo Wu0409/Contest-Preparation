@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(The_Domino_Effect__ACM_Worlf_Finals_1991__UVa_211)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(The_Domino_Effect__ACM_Worlf_Finals_1991__UVa_211 main.cpp)
