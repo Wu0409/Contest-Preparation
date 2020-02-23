@@ -1,0 +1,3 @@
+/Users/wuyuanchen/Documents/Contest-Preparation/守卫棋盘0（Guarding the Chessboard, UVa11214）/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/守卫棋盘0（Guarding the Chessboard, UVa11214）/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/守卫棋盘0（Guarding the Chessboard, UVa11214）/cmake-build-debug/CMakeFiles/Guarding_the_Chessboard__UVa11214.dir
