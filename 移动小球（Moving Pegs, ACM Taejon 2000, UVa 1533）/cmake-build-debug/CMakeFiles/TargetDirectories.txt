@@ -1,0 +1,3 @@
+/Users/wuyuanchen/Documents/Contest-Preparation/移动小球（Moving Pegs, ACM Taejon 2000, UVa 1533）/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/移动小球（Moving Pegs, ACM Taejon 2000, UVa 1533）/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/移动小球（Moving Pegs, ACM Taejon 2000, UVa 1533）/cmake-build-debug/CMakeFiles/Moving_Pegs__ACM_Taejon_2000__UVa_1533.dir
