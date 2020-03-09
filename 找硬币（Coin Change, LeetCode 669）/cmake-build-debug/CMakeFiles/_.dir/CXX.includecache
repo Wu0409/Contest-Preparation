@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyuanchen/Documents/GitHub/Contest-Preparation/找硬币（Coin Change, LeetCode 669）/main.cpp
+iostream
+-
+
