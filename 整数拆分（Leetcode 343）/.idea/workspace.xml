@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Leetcode_343" targetName="Leetcode_343" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6e4a604-46a2-49eb-a851-57cb9ceea0e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YzFqxNzGaHGRk962hleT5zCAT3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Leetcode_343" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode_343" TARGET_NAME="Leetcode_343" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode_343" RUN_TARGET_NAME="Leetcode_343">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6e4a604-46a2-49eb-a851-57cb9ceea0e1" name="Default Changelist" comment="" />
+      <created>1583937710995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583937710995</updated>
+      <workItem from="1583937714598" duration="1647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1583939477974">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-313.-1057.1920.1057@0.0.1440.900" timestamp="1583938921783" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583939477974" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1583939477972">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-313.-1057.1920.1057@0.0.1440.900" timestamp="1583938921781" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583939477972" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1583939477971">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-313.-1057.1920.1057@0.0.1440.900" timestamp="1583938921780" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583939477971" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1583939477973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-313.-1057.1920.1057@0.0.1440.900" timestamp="1583938921782" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583939477973" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1583939477976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583939477976" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1583939477975">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583939477975" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1583939477974">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583939477974" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1583939477975">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583939477975" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1583937724035">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-313.-1080.1920.1080@0.0.1440.900" timestamp="1583937724035" />
+  </component>
+</project>
