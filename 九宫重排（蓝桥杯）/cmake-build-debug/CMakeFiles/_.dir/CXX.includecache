@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyuanchen/Documents/GitHub/Contest-Preparation/九宫重排（蓝桥杯）/main.cpp
+iostream
+-
+queue
+-
+map
+-
+
