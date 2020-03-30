@@ -1,0 +1,3 @@
+/Users/wuyuanchen/Documents/Contest-Preparation/蓝桥杯练习/跳蚱蜢（2017A02）/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/蓝桥杯练习/跳蚱蜢（2017A02）/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuyuanchen/Documents/Contest-Preparation/蓝桥杯练习/跳蚱蜢（2017A02）/cmake-build-debug/CMakeFiles/2017A02.dir
